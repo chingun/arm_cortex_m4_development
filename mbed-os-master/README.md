@@ -1,5 +1,3 @@
-[![Mbed OS][mbed-os-logo]][mbed-os-link]
-
 [![Build status release][mbed-travis-release-svg]][mbed-travis-release]
 [![Build status master][mbed-travis-master-svg]][mbed-travis-master]
 [![Tools coverage status][mbed-coveralls-tools-svg]][mbed-coveralls-tools]
